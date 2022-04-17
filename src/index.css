@@ -7,9 +7,6 @@ body {
     color:#000000;
     background-color: #B2C382;
 }
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-}
 /*Containers*/
 .container {
     width: 100%;
@@ -179,7 +176,8 @@ td {
 }
 
 .contacts__title {
-    margin-bottom: 21px;
+    padding-top: 21px;
+    margin-bottom: 31px;
     text-align: center;
     font-family: Inter, sans-serf;
     font-size: 18px;
